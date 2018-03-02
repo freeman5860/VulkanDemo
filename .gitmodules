@@ -1,0 +1,3 @@
+[submodule "vulkan-sdk"]
+	path = vulkan-sdk
+	url = https://github.com/ARM-software/vulkan-sdk.git
