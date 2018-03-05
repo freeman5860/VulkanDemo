@@ -2,6 +2,9 @@
 *.apk
 *.ap_
 
+# submodule
+vulkan-sdk/
+
 # Files for the ART/Dalvik VM
 *.dex
 
